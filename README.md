@@ -106,7 +106,11 @@ Examples included:
 - Linking products to suppliers
 - Connecting products to categories
 - Combining customer and order information
+- <img width="647" height="143" alt="image" src="https://github.com/user-attachments/assets/22f42052-b0a4-455d-96cc-3bbf6deff8e0" />
+
 - Creating consolidated sales reports
+- <img width="658" height="110" alt="image" src="https://github.com/user-attachments/assets/6b5cf660-14bb-46f9-8295-4d0ac41762b0" />
+
 - Analysing relationships across multiple business datasets
 
 ---
@@ -118,7 +122,11 @@ Examples included:
 Created queries to:
 
 - Identify products and their suppliers
+- <img width="646" height="91" alt="image" src="https://github.com/user-attachments/assets/ec910a8b-a00d-4c39-a082-4d925af74251" />
+
 - Analyse products by category
+- <img width="642" height="87" alt="image" src="https://github.com/user-attachments/assets/41fffccd-999d-4cf3-ad49-3da1efa1da6e" />
+
 - Investigate product pricing
 - Report on inventory and product availability
 
@@ -138,7 +146,11 @@ Generated reports to:
 - Analyse customer locations
 - Segment customers by country and city
 - Support marketing campaign targeting
+- <img width="653" height="111" alt="image" src="https://github.com/user-attachments/assets/71524bdf-e3b8-48a1-950d-75685907f63d" />
+
 - Explore international customer distribution
+- <img width="656" height="118" alt="image" src="https://github.com/user-attachments/assets/a259c60d-ee3c-4fd9-991a-42c0d1c740cb" />
+
 
 ---
 
