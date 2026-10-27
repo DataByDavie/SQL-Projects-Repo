@@ -3,9 +3,11 @@
 
 ## 🚀 Project Overview
 
-As part of my **Data Technician Bootcamp**, I completed a hands-on SQL project focused on querying, analysing, and extracting insights from retail and sales datasets using the **Northwind database**. The project involved retrieving, filtering, sorting, aggregating, and combining data from multiple tables to answer real-world business questions and support data-driven decision-making. Based on work completed in Data_Technician_Workbook_Week_3 SB June 2026.docx. 【1-f7ce98】
+As part of my **Data Technician Bootcamp**, I completed a hands-on SQL project focused on querying, analysing, and extracting insights from retail and sales datasets using relational databases.
 
-Through practical business scenarios, I developed fundamental SQL skills used by data analysts to transform raw database records into meaningful business intelligence. 【1-f7ce98】
+The project involved retrieving, filtering, sorting, aggregating, and combining data from multiple tables to answer real-world business questions and support data-driven decision-making.
+
+Through practical business scenarios, I developed fundamental SQL skills used by data analysts to transform raw database records into meaningful business intelligence.
 
 ---
 
@@ -99,6 +101,14 @@ Combined data across multiple tables to create meaningful business reports.
 | FULL OUTER JOIN | Returns all records from both tables |
 | CROSS JOIN | Returns all possible combinations of records |
 
+Examples included:
+
+- Linking products to suppliers
+- Connecting products to categories
+- Combining customer and order information
+- Creating consolidated sales reports
+- Analysing relationships across multiple business datasets
+
 ---
 
 ## 📈 Retail & Sales Analysis
@@ -137,6 +147,7 @@ Generated reports to:
 Developed an understanding of:
 
 ### 📋 Relational Databases
+
 - Tables
 - Primary Keys
 - Foreign Keys
@@ -144,14 +155,17 @@ Developed an understanding of:
 - Data Integrity
 
 ### 🔄 Entity Relationships
-Designed database structures incorporating:
 
-- Learners
-- Courses
-- Trainers
-- Enrolments
+Designed and explored database structures incorporating:
 
-This strengthened my understanding of how relational databases are organised and how linked tables support efficient data storage and reporting. 【1-f7ce98】
+- Customers
+- Products
+- Suppliers
+- Orders
+- Employees
+- Categories
+
+This strengthened my understanding of how relational databases are organised and how linked tables support efficient data storage and reporting.
 
 ---
 
@@ -173,35 +187,35 @@ Some of the business questions answered through SQL included:
 
 ✅ How can customer, employee, product, and order data be combined into a single report?
 
-These scenarios demonstrated how SQL can be used to answer real business questions through structured data analysis. 【1-f7ce98】
+These scenarios demonstrated how SQL can be used to answer real business questions through structured data analysis.
 
 ---
 
 ## 🌍 Advanced SQL Practice
 
-Additional exercises involved working with a global dataset to practise:
+Additional exercises involved:
 
-- Population analysis
+- Population and demographic analysis
 - Geographic reporting
-- Data aggregation
+- Data aggregation and summarisation
 - Multi-table joins
-- String filtering with `LIKE`
-- Sorting and ranking data
+- Text filtering using `LIKE`
+- Sorting and ranking results
 - Limiting result sets using `LIMIT` and `OFFSET`
 
-This helped reinforce SQL fundamentals while solving realistic analytical challenges. 【1-f7ce98】
+These activities reinforced SQL fundamentals while solving realistic analytical challenges.
 
 ---
 
 ## 🖥️ Tools & Technologies
 
 - SQL
-- PostgreSQL / Supabase
+- PostgreSQL
+- Supabase
 - Relational Databases
-- Northwind Database
 - Data Modelling
 - Data Analysis
-- Data Querying
+- Database Querying
 
 ---
 
@@ -222,7 +236,7 @@ Through this project, I strengthened my ability to:
 
 ## 🌟 Key Takeaway
 
-This project demonstrated how SQL can be used to transform raw data into meaningful business insights. By combining querying, filtering, aggregation, and table relationships, I gained practical experience in analysing retail and sales data and building reports that support informed decision-making.
+This project demonstrated how SQL can transform raw data into meaningful business insights. By combining querying, filtering, aggregation, and table relationships, I gained practical experience in analysing retail and sales data and creating reports that support informed business decision-making.
 
 ---
 
@@ -236,4 +250,4 @@ This project demonstrated how SQL can be used to transform raw data into meaning
 `Data Analysis` `Relational Databases`
 `Data Modelling` `Retail Analytics`
 `Sales Analysis` `Business Intelligence`
-`Data Querying`
+`Database Querying`
